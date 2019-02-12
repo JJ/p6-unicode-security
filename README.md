@@ -1,7 +1,7 @@
 NAME
 ====
 
-Unicode::Security - blah blah blah
+Unicode::Security - A port of Perl5's Unicode Security.
 
 SYNOPSIS
 ========
@@ -13,7 +13,8 @@ use Unicode::Security;
 DESCRIPTION
 ===========
 
-Unicode::Security is ...
+Unicode::Security is a reimplementaiton of Perl5 Unicode::Security in Perl6.
+
 
 AUTHOR
 ======
